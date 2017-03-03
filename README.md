@@ -18,5 +18,5 @@ Provides a small **Docker** image for **Erlang** based builds.
 
 ## License
 
-[Imhotep Sofware LLC](http://imhotep.io) is releasing this sample code under [MIT](https://opensource.org/licenses/MIT) license.
+[Imhotep Sofware LLC](http://imhotep.io) is releasing this code under [MIT](https://opensource.org/licenses/MIT) license.
 
